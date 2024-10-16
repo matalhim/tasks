@@ -1,0 +1,4 @@
+eta: 0.03
+in_channels: 3
+model: efficientnet-b0
+out_classes: 11
